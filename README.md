@@ -7,8 +7,8 @@ This work was done during my internship at [Synetis](https://www.synetis.com/).
 
 Available options:
 
-- Dump-dir: Dump the key to use it with bdemount, need an output path
-- Dislocker: Dump the key to use it with Dislocker, need an output path
+- Dump-dir: Dump the key to use it with bdemount, requires an output path
+- Dislocker: Dump the key to use it with Dislocker, requires an output path
 - Verbose: Add more information about the memory pools currently reviewed
 - Debug: When the correct FVEK is not returned, it might help
 
